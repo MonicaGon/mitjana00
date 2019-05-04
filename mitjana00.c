@@ -1,3 +1,4 @@
+
 //Autor: dc1819daw2
 //Data i hora: 201811261428
 
@@ -24,5 +25,6 @@ int main() {
 	mitjana=suma/numero_repeticions;
 	printf("La mitjana resultant és: %.2f\n",mitjana);
         printf("La mitjana ha estat trobada amb exit\n");
+        printf("Operacio finalitzada amb exit\n");
 	return 0;
 }
